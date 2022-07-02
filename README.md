@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Deepmoritz)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/aspect1x)
 
 <div size='20px'> Hey! My name is aspect and I am a Developer & Designer :smile: 
 </div>
