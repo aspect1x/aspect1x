@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/aspect1x)
 
-<div size='20px'> Hey! My name is aspect and I am a Developer & Designer :smile: 
+<div size='20px'> Hey! My name is taqz and I am a Developer & Designer :smile: 
 </div>
 
 <h2> About Me</h2>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on different Projects
                                                                                                                                    
-- 📫 How to reach me: Discord: aspect#1337                                                                                                                                  
+- 📫 How to reach me: Discord: taqz#1337                                                                                                                                  
 - 💬 Ask me about Lua, JavaScript, HTML, css
   
 - 🎨 Designing with: Adobe Photoshop, Adobe After Effects, Adobe Illustrator, Adobe Media Encoder
