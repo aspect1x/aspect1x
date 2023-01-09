@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on different Projects
                                                                                                                                    
-- 📫 How to reach me: Discord: 'aspect#1337                                                                                                                                 
+- 📫 How to reach me: Discord: aspect#2023                                                                                                                                 
 - 💬 Ask me about Lua, JavaScript, HTML, css
   
 - 🎨 Designing with: Adobe Photoshop, Adobe After Effects, Adobe Illustrator, Adobe Media Encoder
